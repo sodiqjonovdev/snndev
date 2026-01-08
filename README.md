@@ -30,8 +30,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snndev&show_icons=true&theme=dark&cache_seconds=1800)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snndev&layout=compact&theme=dark&cache_seconds=1800)  
 
-![Mening GitHub statusim](https://github-readme-stats.vercel.app/api?username=sodiqjonovdev&show_icons=true&theme=radical)
-
 ---
 
 ## 🌐 Ijtimoiy Tarmoqlar  
