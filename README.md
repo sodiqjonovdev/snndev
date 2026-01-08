@@ -44,8 +44,8 @@
 ## 📫 Bog‘lanish  
 
 📧 Email: [nurmuhammadsodiqjonov55@gmail.com](mailto:nurmuhammadsodiqjonov55@gmail.com) <br>
-💬 Telegram: [Nυrмυнαммα∂](https://t.me/snn_dev) <br>
-🌐 GitHub: [snndev](https://github.com/snndev)
+💬 Telegram: [Nυrмυнαммα∂](https://t.me/sodiqjonov_dev) <br>
+🌐 GitHub: [snndev](https://github.com/sodiqjonovdev)
 
 *© 2025 Nurmuhammad*  
 
